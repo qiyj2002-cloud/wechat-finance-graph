@@ -1,5 +1,6 @@
-# 只保留 knowledge_graph.html，其余全部忽略
+# 只保留可视化产物和首页，其余全部忽略
 *
 !.gitignore
-!knowledge_graph.html
 !index.html
+!knowledge_graph.html
+!huoxing.html
